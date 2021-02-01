@@ -8,4 +8,4 @@ This week's class is a hands on practice session. The objective is to work on mu
 - [A first ML application on small data](Prac2_ml_on_small_data.ipynb)
 - [A first ML application on small data, revisited](Prac2_B_ml_on_small_data.ipynb)
 - [A first ML application with real size data](Prac1_boston-house-price-prediction.ipynb)
-
+- [Article of the week](https://www.nature.com/articles/d41586-019-02307-y)
